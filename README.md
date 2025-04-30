@@ -21,6 +21,17 @@ This portfolio documents my learning journey, practical projects, and skills dev
 - [ ] MITRE ATT&CK Path (planned)
 
 ---
+### 🔹 Google Cybersecurity Certificate – Module 1: Foundations of Cybersecurity  
+**Status:** Completed  
+**What I Learned:**  
+- Overview of key cyber threats: phishing, malware, social engineering  
+- Importance of confidentiality, integrity, and availability (CIA Triad)  
+- Roles in cybersecurity: SOC Analyst, Incident Responder, Security Engineer  
+**Tools Introduced:**  
+- Google Workspace  
+- Security frameworks: NIST, ISO/IEC 27001
+
+-----
 
 ## 🔧 Projects & Labs
 
